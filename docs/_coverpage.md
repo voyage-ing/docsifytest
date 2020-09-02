@@ -9,4 +9,4 @@
 * 后端数据接口：Express、MongoDB
 
 [GitHub](https://github.com/Hanxueqing/Douban-Movie.git)
-[Get Started](README.md)
+[Get Started](#id-test)
